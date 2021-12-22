@@ -1,5 +1,5 @@
-# dio-desafio-github
-Repo criado para completar o desafio da NTT DATA na DIO
+# Desafio DIO - NTT DATA 
+Repositorio criado para completar o desafio da NTT DATA na DIO
 
 
 ##Links úteis
